@@ -1,3 +1,9 @@
+name: Bug Report
+description: Create a bug report for one of the INVE Studios products.
+title: "[Bug Report]"
+labels: [Bug]
+assignees:
+  - Arxaid
 body:
   - type: checkboxes
     id: check

@@ -1,3 +1,9 @@
+name: Feature Request
+description: Suggest an idea for a INVE Studios.
+title: "[Feature Request]"
+labels: [Feature Request]
+assignees:
+  - Arxaid
 body:
   - type: checkboxes
     id: check
