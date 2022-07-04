@@ -6,7 +6,7 @@ Welcome to our feedback repository. Here you can submit bug reports and feature 
 * Use correct form for what you are submitting.
 
 Choose from the following issue types:
-* [Bug Report](https://github.com/INVE-Studios/feedback/issues/new?assigners=Arxaid&labels=Bug&template=bug-report.yml&title=[Bug+Report])
-* [Feature Request](https://github.com/INVE-Studios/feedback/issues/new?assigners=Arxaid&labels=Feature+Request&template=feature-request.yml&title=[Feature+Request])
+* [Bug Report](https://github.com/INVE-Studios/feedback/issues/new?assignees=Arxaid&labels=Bug&template=bug-report.yml&title=[Bug+Report])
+* [Feature Request](https://github.com/INVE-Studios/feedback/issues/new?assignees=Arxaid&labels=Feature+Request,User+Suggestion&template=feature-request.yml&title=[Feature+Request])
 
 <img src="https://i.imgur.com/6KkqBTd.png" alt="INVE Studios logo" width="100"/>
