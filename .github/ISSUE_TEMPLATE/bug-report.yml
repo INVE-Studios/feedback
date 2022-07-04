@@ -38,7 +38,8 @@ body:
     attributes:
       label: "Screenshots"
       description: "If applicable, add screenshots to help explain and / or show your problem."
-      render: bash
+    validations:
+      required: true
   - type: textarea
     id: other
     attributes:
